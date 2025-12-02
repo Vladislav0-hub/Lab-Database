@@ -574,11 +574,74 @@ erDiagram
 
 # Лабораторная работа 2
 ## Создание DDL-запросов для PostgreSQL
-### Создана структура БД в pgAdmin
+### Создание таблиц
 
 ### Таблица category(категорий)
 
 <img width="705" height="202" alt="image" src="https://github.com/user-attachments/assets/3231001a-a927-485b-8a97-50dbfeba3dfe" />
+
+### Таблица customer(клиентов)
+
+<img width="821" height="231" alt="image" src="https://github.com/user-attachments/assets/7952ba41-fb8e-4162-ba72-c349d822c3fe" />
+
+### Таблица product(товаров)
+
+<img width="870" height="326" alt="image" src="https://github.com/user-attachments/assets/fdca28a2-4415-4a5d-a2b8-f33ed87365f2" />
+
+### Таблица order(заказов)
+
+<img width="974" height="198" alt="image" src="https://github.com/user-attachments/assets/ed3fb68e-2316-4513-b4c0-264c7ba35645" />
+
+### Таблица order_item(позиций заказа)
+
+<img width="858" height="289" alt="image" src="https://github.com/user-attachments/assets/4b0a2308-4e24-441e-a47c-7e198c6055e6" />
+
+### Таблица review(отзывов)
+
+<img width="975" height="230" alt="image" src="https://github.com/user-attachments/assets/77b58731-17f2-455b-9d6a-a22d4e50c516" />
+
+### Таблица return(возвратов)
+
+<img width="975" height="177" alt="image" src="https://github.com/user-attachments/assets/5dbf78dd-0740-4305-822b-1da66f80ab3c" />
+
+### Создание индексов
+
+<img width="852" height="261" alt="image" src="https://github.com/user-attachments/assets/cabda4b2-7342-4b2a-82c1-e5efa57e24ba" />
+
+### Заполнение данными
+
+### Таблица category
+
+<img width="975" height="539" alt="image" src="https://github.com/user-attachments/assets/a621d2fc-721b-4455-8540-0daa3da1a299" />
+
+### Таблица customer
+
+<img width="975" height="447" alt="image" src="https://github.com/user-attachments/assets/5b86f483-0243-4543-b7f2-48d6438694f2" />
+
+### Таблица product
+
+<img width="975" height="387" alt="image" src="https://github.com/user-attachments/assets/67fbf626-0f8a-4614-bfb9-9d6e5a3666b2" />
+
+### Таблица order
+
+<img width="975" height="476" alt="image" src="https://github.com/user-attachments/assets/111d1636-f16b-4977-8d71-4c45c74b5b4e" />
+
+### Таблица order_item
+
+<img width="606" height="420" alt="image" src="https://github.com/user-attachments/assets/e22edf6c-f898-4848-a281-55d2210f011e" />
+
+### Таблица review
+
+<img width="975" height="411" alt="image" src="https://github.com/user-attachments/assets/f4defa0f-8793-4e30-96f8-45efc20977cb" />
+
+### Таблица return
+
+<img width="975" height="339" alt="image" src="https://github.com/user-attachments/assets/4564ef99-a656-4108-bc8a-1d50093126d2" />
+
+
+
+
+
 
 
 
