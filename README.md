@@ -576,4 +576,9 @@ erDiagram
 ## Создание DDL-запросов для PostgreSQL
 ### Создана структура БД в pgAdmin
 
+### Таблица category(категорий)
+
+<img width="705" height="202" alt="image" src="https://github.com/user-attachments/assets/3231001a-a927-485b-8a97-50dbfeba3dfe" />
+
+
 
