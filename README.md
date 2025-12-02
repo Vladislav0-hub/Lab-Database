@@ -638,6 +638,18 @@ erDiagram
 
 <img width="975" height="339" alt="image" src="https://github.com/user-attachments/assets/4564ef99-a656-4108-bc8a-1d50093126d2" />
 
+## Запросы
+
+### Запрос 1. Клиенты и их заказы
+
+<img width="684" height="538" alt="image" src="https://github.com/user-attachments/assets/4242a5f6-a445-48eb-9310-037053f76faf" />
+
+### Запрос 2. Статистика по категориям 
+
+<img width="762" height="481" alt="image" src="https://github.com/user-attachments/assets/89d95063-e3eb-4f1d-9f7d-b15e0fc691f2" />
+
+
+
 
 
 
