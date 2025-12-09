@@ -650,7 +650,7 @@ erDiagram
 
 
 # Лабораторная работа №3 (Представление, процедуры)
-## Цель работы: Изучить VIEW, PROCEDURE, FUNCTION
+## Цель работы: Изучить VIEW, PROCEDURE
 
 ## Созданные объекты:
 ### Представление simple_product_ratings
@@ -660,6 +660,14 @@ erDiagram
 
 ### Результат SELECT
 <img width="724" height="523" alt="image" src="https://github.com/user-attachments/assets/cb1e6475-5c52-434a-be64-68fb26f84b45" />
+
+### Процедура add_simple_review
+### Добавляет новый отзыв
+### SQL код
+<img width="650" height="359" alt="image" src="https://github.com/user-attachments/assets/b5bbb62f-915d-42ee-8a49-bec6c53d6776" />
+
+### Результат CALL(Отзыв уже существует)
+<img width="348" height="381" alt="image" src="https://github.com/user-attachments/assets/d3b022fc-cd85-4bf5-a990-8087a88da2d2" />
 
 
 
