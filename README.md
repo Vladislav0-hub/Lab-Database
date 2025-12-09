@@ -649,8 +649,16 @@ erDiagram
 <img width="762" height="481" alt="image" src="https://github.com/user-attachments/assets/89d95063-e3eb-4f1d-9f7d-b15e0fc691f2" />
 
 
+# Лабораторная работа №3 (Представление, процедуры)
+## Цель работы: Изучить VIEW, PROCEDURE, FUNCTION
 
-
+## Созданные объекты:
+### Представление simple_product_ratings
+### Показывает товары с их рейтингами
+### SQL код
+<img width="376" height="343" alt="image" src="https://github.com/user-attachments/assets/65753290-1456-4046-862d-144051b8ba5f" />
+### Результат SELECT
+<img width="724" height="523" alt="image" src="https://github.com/user-attachments/assets/cb1e6475-5c52-434a-be64-68fb26f84b45" />
 
 
 
