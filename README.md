@@ -745,6 +745,57 @@ erDiagram
 <img width="541" height="737" alt="image" src="https://github.com/user-attachments/assets/be1435c8-0f66-40d0-80db-9676048a31a2" />
 
 
+# Лабораторная работа №5 (Триггеры и аудит)
+
+### Создание таблицы-журнала для аудита изменений
+
+<img width="484" height="353" alt="image" src="https://github.com/user-attachments/assets/fb86a482-3d6b-4697-ba3a-bc1e5a9683ff" />
+
+<img width="482" height="353" alt="image" src="https://github.com/user-attachments/assets/dda79a03-da7d-4aa0-a1ca-4068502c1176" />
+
+<img width="483" height="353" alt="image" src="https://github.com/user-attachments/assets/5d422f39-5540-431e-8677-f9e26c118d1f" />
+
+### Триггеры аудита для таблицы orders (INSERT, UPDATE, DELETE)
+
+<img width="795" height="572" alt="image" src="https://github.com/user-attachments/assets/eb9573cf-c242-4482-bf03-9a7bc50961fd" />
+
+### Триггеры аудита для таблицы returns
+
+<img width="912" height="576" alt="image" src="https://github.com/user-attachments/assets/1bce0063-3c8d-4445-a1e8-7ee6d47157f1" />
+
+### Триггеры аудита для таблицы reviews
+
+<img width="786" height="577" alt="image" src="https://github.com/user-attachments/assets/ac16d6b0-4e38-487c-9512-a24b42f365e3" />
+
+### Триггер каскадного удаления для связи "один-ко-многим"
+
+<img width="921" height="583" alt="image" src="https://github.com/user-attachments/assets/90b96388-820e-4eae-b0da-ed8a866c53b3" />
+
+### Триггер для автоматического обновления цены в order_item
+
+<img width="599" height="583" alt="image" src="https://github.com/user-attachments/assets/c3b4d0ac-d570-4292-adf0-ed2f7bc8031e" />
+
+### Триггер для проверки дублирования отзывов
+
+<img width="589" height="576" alt="image" src="https://github.com/user-attachments/assets/29a85582-72bc-4ed4-977e-d83dfef465bf" />
+
+### Триггер для автоматического расчета refund_amount
+
+<img width="548" height="584" alt="image" src="https://github.com/user-attachments/assets/cefbe361-e73a-4783-b7e7-0c84f86889f2" />
+
+### Представление для просмотра журнала аудита
+
+<img width="378" height="506" alt="image" src="https://github.com/user-attachments/assets/656afd53-89a3-47b9-a8e8-9e4ba5980f61" />
+
+
+
+
+
+
+
+
+
+
 
 
 
