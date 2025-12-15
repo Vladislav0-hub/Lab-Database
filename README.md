@@ -670,6 +670,93 @@ erDiagram
 <img width="348" height="381" alt="image" src="https://github.com/user-attachments/assets/d3b022fc-cd85-4bf5-a990-8087a88da2d2" />
 
 
+# Лабораторная работа №4 (Анализ производительности)
+
+### Генератор товаров (20к записей)
+
+<img width="605" height="592" alt="image" src="https://github.com/user-attachments/assets/2476f4d3-472f-411b-87e3-d8bd00f2ac25" />
+
+### Генератор заказов (20к записей)
+
+<img width="745" height="608" alt="image" src="https://github.com/user-attachments/assets/23797936-31fc-4584-8785-6d69deae4cd6" />
+
+### Позиции заказов (50к записей)
+
+<img width="703" height="594" alt="image" src="https://github.com/user-attachments/assets/c8f6c29c-1786-43e6-940c-ee487dc5a957" />
+
+### Отзывы (20к записей)
+
+<img width="628" height="597" alt="image" src="https://github.com/user-attachments/assets/9769a01f-76b7-46a2-9004-1373e71dc82e" />
+
+### Возвраты (10к записей)
+
+<img width="657" height="592" alt="image" src="https://github.com/user-attachments/assets/40fa9896-9046-449e-8749-58501501b487" />
+
+### Проверка количества
+
+<img width="738" height="642" alt="image" src="https://github.com/user-attachments/assets/137265fe-ffa2-4588-bfb5-0714364c25ec" />
+
+## АНАЛИЗ ПРОИЗВОДИТЕЛЬНОСТИ ДО ОПТИМИЗАЦИИ
+
+### Медленный запрос 1: Поиск товаров по цене
+
+<img width="638" height="689" alt="image" src="https://github.com/user-attachments/assets/fa3d6dfd-1c06-4a62-8680-78548a3cef03" />
+
+### Медленный запрос 2: Поиск заказов по дате
+
+<img width="760" height="732" alt="image" src="https://github.com/user-attachments/assets/595c2a47-3094-4fcc-b0cd-e8fcc983a62b" />
+
+### Медленный запрос 3: Статистика возвратов
+
+<img width="552" height="650" alt="image" src="https://github.com/user-attachments/assets/72549595-16ac-485b-a64e-eadf0c33a8f4" />
+
+## ОПТИМИЗАЦИЯ ИНДЕКСАМИ
+
+### Создаем индексы
+
+<img width="664" height="392" alt="image" src="https://github.com/user-attachments/assets/2a10e929-37e5-4ef7-9cbf-528ceadc6c00" />
+
+### Обновляем статистику
+
+<img width="438" height="307" alt="image" src="https://github.com/user-attachments/assets/7cc9ef9d-7b8a-4b8b-9528-e295b767351c" />
+
+## АНАЛИЗ ПРОИЗВОДИТЕЛЬНОСТИ ПОСЛЕ ОПТИМИЗАЦИИ
+
+### Тот же запрос 1 (после индексов)
+
+<img width="774" height="530" alt="image" src="https://github.com/user-attachments/assets/2f621434-fc65-4ec5-aff7-c98ec069ff87" />
+
+### Тот же запрос 2 (после индексов)
+
+<img width="763" height="734" alt="image" src="https://github.com/user-attachments/assets/c324c4f0-c556-46e9-8a20-3849e6ecba4f" />
+
+### Тот же запрос 3 (после индексов)
+
+<img width="553" height="644" alt="image" src="https://github.com/user-attachments/assets/8b5bea3b-b151-4f4c-8e7c-c5e53e3178c6" />
+
+## СРАВНЕНИЕ РЕЗУЛЬТАТОВ
+
+### Таблица сравнения
+
+<img width="931" height="380" alt="image" src="https://github.com/user-attachments/assets/ccdb5652-6780-49ac-bb96-f3ee8cd53f73" />
+
+### Проверка использования индексов
+
+<img width="541" height="737" alt="image" src="https://github.com/user-attachments/assets/be1435c8-0f66-40d0-80db-9676048a31a2" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
